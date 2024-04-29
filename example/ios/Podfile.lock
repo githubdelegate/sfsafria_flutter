@@ -1,0 +1,35 @@
+PODS:
+  - Flutter (1.0.0)
+  - integration_test (0.0.1):
+    - Flutter
+  - JKSwiftExtension (2.6.3)
+  - sfsafari_view_controller (0.0.1):
+    - Flutter
+    - JKSwiftExtension
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - integration_test (from `.symlinks/plugins/integration_test/ios`)
+  - sfsafari_view_controller (from `.symlinks/plugins/sfsafari_view_controller/ios`)
+
+SPEC REPOS:
+  trunk:
+    - JKSwiftExtension
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  integration_test:
+    :path: ".symlinks/plugins/integration_test/ios"
+  sfsafari_view_controller:
+    :path: ".symlinks/plugins/sfsafari_view_controller/ios"
+
+SPEC CHECKSUMS:
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  integration_test: 13825b8a9334a850581300559b8839134b124670
+  JKSwiftExtension: 15eb11b8acc982ef534b1a631a4543a9a3443bbb
+  sfsafari_view_controller: a6cd185c9c84a64eb90e23ed6653c5b204f3861b
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.15.2
